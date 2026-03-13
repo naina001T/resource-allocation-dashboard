@@ -11,7 +11,7 @@ This Power BI dashboard analyzes resource allocation across Business Units and R
 - Critical Allocation (>120%)
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Allocation_dashboard.png)
 
 ## File
 Download the Power BI file: dashboard.pbix
