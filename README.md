@@ -1,14 +1,23 @@
 # Resource Allocation Dashboard (Power BI)
+## Problem Statement
+Organizations often struggle to identify resource overallocations across business units and roles.  
+This dashboard helps identify mild, high, and critical overallocation levels so managers can rebalance workload.
 
-## Overview
-This Power BI dashboard analyzes resource allocation across Business Units and Roles.
+## Key Insights
 
-## Key Metrics
-- Total Resources
-- Underallocated Resources
-- Optimally Allocated Resources
-- Overallocated Resources
-- Critical Allocation (>120%)
+• 16% of resources are overallocated  
+• 1% of resources are critically overallocated (>120%)  
+• Some business units show higher workload imbalance  
+• Majority of resources are optimally allocated
+
+
+## Dashboard Features
+
+• Allocation distribution across resources  
+• Severity classification (Mild, High, Critical)  
+• Business Unit and Role distribution  
+• Overallocated vs optimally allocated resources  
+• Critical allocation KPI indicator
 
 ## Dashboard Preview
 ![Dashboard](Allocation_Dashboard.png)
